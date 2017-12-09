@@ -1,2 +1,2 @@
 # Player_finder
-Search local sports player and recruit 
+Search local sports players and recruit 
